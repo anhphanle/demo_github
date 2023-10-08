@@ -1,1 +1,8 @@
-huhu egfhng
+Tạo một project trên github
+1. Tạo 1 github repository (folder) nơi chứa code
+2. clone project này: git clone link_your_repo
+3. viết code
+  git status (kiểm tra trạng thái files)
+  git add . (thêm files)
+  git commit -m "your_masage" (tạo nội dung commit)
+  git push origin main
