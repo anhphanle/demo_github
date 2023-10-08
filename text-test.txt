@@ -6,3 +6,12 @@ Tạo một project trên github
   git add . (thêm files)
   git commit -m "your_masage" (tạo nội dung commit)
   git push origin main
+Tạo project local và đẩy lên github
+1. Tạo 1 github repo
+2. git init
+3. viết code
+  git status
+  git add.
+  git commit -m "your message"
+  $ git remote add origin https://github.com/anhphanle/test_push_local_project.git
+  git push origin 
